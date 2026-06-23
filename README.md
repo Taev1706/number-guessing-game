@@ -123,3 +123,8 @@ python -c "import data_service; data_service.clear_all()"
 
 **Q: Как перенести рекорды на другой компьютер?**  
 Скопируйте файл `data/records.csv` в папку с игрой на другом компьютере.
+
+## Project Status
+
+Version 1.0.2
+Project completed.
