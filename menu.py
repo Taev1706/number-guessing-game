@@ -1,7 +1,7 @@
 from logic import generate_secret, play_round, get_top_records, MIN_NUMBER, MAX_NUMBER
 from data_service import add_record
 
-VERSION = "1.0.0"
+VERSION = "1.0.2"
 
 
 def show_banner():
